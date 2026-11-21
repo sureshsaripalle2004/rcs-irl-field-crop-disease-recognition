@@ -1,0 +1,9 @@
+
+cff-version: 1.2.0
+message: "Please cite the associated research paper when using this software."
+title: "RCS-IRL: Reliability-Guided Context-Suppressed Feature Fusion for Multi-Label Field Crop Disease Recognition"
+type: software
+authors:
+  - family-names: Saripalle
+    given-names: Suresh
+repository-code: "https://github.com/sureshsaripalle2004/rcs-irl-field-crop-disease-recognition"
