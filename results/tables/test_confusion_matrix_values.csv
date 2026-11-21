@@ -1,0 +1,20 @@
+class,TN,FP,FN,TP
+Cassava Bacterial Blight,719,6,2,1
+Cassava Brown Leaf Spot,625,77,5,21
+Cassava Healthy,651,37,9,31
+Cassava Mosaic,542,27,11,148
+Cassava Root Rot,709,9,5,5
+Corn Brown Spots,697,5,12,14
+Corn Chlorotic Leaf Spot,712,12,0,4
+Corn Gray leaf spot,723,0,2,3
+Corn Healthy,677,35,3,13
+Corn Mildew,714,8,2,4
+Corn Streak,667,34,1,26
+Corn Stripe,703,9,3,13
+Corn Yellowing,657,25,2,44
+Corn leaf blight,496,67,7,158
+Corn rust leaf,720,2,3,3
+Tomato Brown Spots,596,18,4,110
+Tomato blight leaf,655,19,1,53
+Tomato healthy,678,29,2,19
+Tomato leaf yellow virus,715,3,3,7

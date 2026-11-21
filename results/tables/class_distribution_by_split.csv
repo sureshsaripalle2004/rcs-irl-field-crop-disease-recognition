@@ -1,0 +1,58 @@
+split,class,image_count
+Train,Cassava Bacterial Blight,15
+Train,Cassava Brown Leaf Spot,121
+Train,Cassava Healthy,183
+Train,Cassava Mosaic,743
+Train,Cassava Root Rot,45
+Train,Corn Brown Spots,120
+Train,Corn Chlorotic Leaf Spot,18
+Train,Corn Gray leaf spot,21
+Train,Corn Healthy,73
+Train,Corn Mildew,28
+Train,Corn Streak,125
+Train,Corn Stripe,73
+Train,Corn Yellowing,213
+Train,Corn leaf blight,769
+Train,Corn rust leaf,29
+Train,Tomato Brown Spots,533
+Train,Tomato blight leaf,250
+Train,Tomato healthy,99
+Train,Tomato leaf yellow virus,45
+Validation,Cassava Bacterial Blight,3
+Validation,Cassava Brown Leaf Spot,26
+Validation,Cassava Healthy,39
+Validation,Cassava Mosaic,159
+Validation,Cassava Root Rot,10
+Validation,Corn Brown Spots,26
+Validation,Corn Chlorotic Leaf Spot,4
+Validation,Corn Gray leaf spot,4
+Validation,Corn Healthy,16
+Validation,Corn Mildew,6
+Validation,Corn Streak,26
+Validation,Corn Stripe,15
+Validation,Corn Yellowing,46
+Validation,Corn leaf blight,164
+Validation,Corn rust leaf,6
+Validation,Tomato Brown Spots,114
+Validation,Tomato blight leaf,53
+Validation,Tomato healthy,21
+Validation,Tomato leaf yellow virus,9
+Test,Cassava Bacterial Blight,3
+Test,Cassava Brown Leaf Spot,26
+Test,Cassava Healthy,40
+Test,Cassava Mosaic,159
+Test,Cassava Root Rot,10
+Test,Corn Brown Spots,26
+Test,Corn Chlorotic Leaf Spot,4
+Test,Corn Gray leaf spot,5
+Test,Corn Healthy,16
+Test,Corn Mildew,6
+Test,Corn Streak,27
+Test,Corn Stripe,16
+Test,Corn Yellowing,46
+Test,Corn leaf blight,165
+Test,Corn rust leaf,6
+Test,Tomato Brown Spots,114
+Test,Tomato blight leaf,54
+Test,Tomato healthy,21
+Test,Tomato leaf yellow virus,10

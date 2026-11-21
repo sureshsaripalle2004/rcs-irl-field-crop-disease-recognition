@@ -1,0 +1,8 @@
+split,number_of_labels,image_count
+Train,1,3236
+Train,2,132
+Train,3,1
+Validation,1,691
+Validation,2,28
+Test,1,702
+Test,2,26

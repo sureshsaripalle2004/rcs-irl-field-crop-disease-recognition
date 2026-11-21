@@ -1,0 +1,28 @@
+class,image_count,independent_visual_groups,eligible_20,eligible_10
+Corn leaf blight,1111,1111,True,True
+Cassava Mosaic,1077,1077,True,True
+Tomato Brown Spots,952,763,True,True
+Tomato blight leaf,359,359,True,True
+Corn Yellowing,307,307,True,True
+Cassava Healthy,264,264,True,True
+Cassava Brown Leaf Spot,192,186,True,True
+Corn Streak,182,182,True,True
+Corn Brown Spots,172,172,True,True
+Tomato healthy,141,141,True,True
+Corn Healthy,105,105,True,True
+Corn Stripe,104,104,True,True
+Cassava Root Rot,74,74,True,True
+Tomato leaf yellow virus,66,66,True,True
+Corn rust leaf,46,46,True,True
+Corn Mildew,41,41,True,True
+Corn Gray leaf spot,30,30,True,True
+Corn Chlorotic Leaf Spot,26,26,True,True
+Cassava Bacterial Blight,22,22,True,True
+Corn Insects Damages,17,17,False,True
+Corn Yellow Spots,16,16,False,True
+Tomato leaf mosaic virus,13,13,False,True
+Corn Smut,13,13,False,True
+Corn Purple Discoloration,8,8,False,False
+Corn Violet Decoloration,6,6,False,False
+Corn Charcoal,1,1,False,False
+Tomato bacterial wilt,1,1,False,False

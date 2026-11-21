@@ -1,0 +1,20 @@
+class,validation_support,threshold,calibration
+Cassava Bacterial Blight,3,0.5,Default: insufficient validation support
+Cassava Brown Leaf Spot,26,0.34575220942497253,Tuned
+Cassava Healthy,39,0.490123450756073,Tuned
+Cassava Mosaic,159,0.7010445594787598,Tuned
+Cassava Root Rot,10,0.5,Default: insufficient validation support
+Corn Brown Spots,26,0.4750814437866211,Tuned
+Corn Chlorotic Leaf Spot,4,0.5,Default: insufficient validation support
+Corn Gray leaf spot,4,0.5,Default: insufficient validation support
+Corn Healthy,16,0.5,Default: insufficient validation support
+Corn Mildew,6,0.5,Default: insufficient validation support
+Corn Streak,26,0.4408084750175476,Tuned
+Corn Stripe,15,0.5,Default: insufficient validation support
+Corn Yellowing,46,0.6926731467247009,Tuned
+Corn leaf blight,164,0.5059964060783386,Tuned
+Corn rust leaf,6,0.5,Default: insufficient validation support
+Tomato Brown Spots,114,0.7890421152114868,Tuned
+Tomato blight leaf,53,0.4622035622596741,Tuned
+Tomato healthy,21,0.37206390500068665,Tuned
+Tomato leaf yellow virus,9,0.5,Default: insufficient validation support
